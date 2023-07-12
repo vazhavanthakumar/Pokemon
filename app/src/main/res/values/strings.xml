@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Pokemon</string>
+
+    <string name="label_level">Level</string>
+    <string name="label_hp">HP</string>
+    <string name="label_sort_by">SORT BY</string>
+
+    <string name="alert_sort_by_level">Sorted by Level</string>
+    <string name="alert_sort_by_hp">Sorted by HP</string>
+</resources>
